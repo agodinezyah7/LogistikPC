@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConexionLocal" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=192.168.1.117;Initial Catalog=LogistikMasterValvulerias;Integrated Security=False;Uid=sa; Password=Aspel2020$;MultipleActiveResultSets=true</Value>
+    </Setting>
+    <Setting Name="ConexionSAE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=10.0.2.15;Initial Catalog=SAE70_Emp06;Integrated Security=True;MultipleActiveResultSets=True;Uid=admin; Password=PASS</Value>
+    </Setting>
+    <Setting Name="vgCrearBD_IP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.1.117</Value>
+    </Setting>
+    <Setting Name="vgBDOtroLado_IP2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.1.117</Value>
+    </Setting>
+    <Setting Name="vgBDOtroLado_User" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sa</Value>
+    </Setting>
+    <Setting Name="pass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Aspel2020$</Value>
+    </Setting>
+    <Setting Name="vgBDOtroLado_Pass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Aspel2020$</Value>
+    </Setting>
+    <Setting Name="vgCrearBD_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LogistikMasterValvulerias</Value>
+    </Setting>
+    <Setting Name="ConexionLocal2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=192.168.1.117;Initial Catalog=LogistikMasterValvulerias01;Integrated Security=False;Uid=sa; Password=Aspel2020$;MultipleActiveResultSets=true</Value>
+    </Setting>
+    <Setting Name="ProvEmp01" Type="System.String" Scope="User">
+      <Value Profile="(Default)">13</Value>
+    </Setting>
+    <Setting Name="Ruta_SAE_FB" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files\Common Files\Aspel\Sistemas Aspel\SAE7.00\Empresa01\DATOS\SAE70EMPRE01.FDB</Value>
+    </Setting>
+    <Setting Name="ProvEmp04" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
