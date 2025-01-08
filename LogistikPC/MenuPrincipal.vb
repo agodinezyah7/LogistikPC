@@ -80,6 +80,7 @@ Public Class MenuPrincipal
 
     End Sub
     Private Sub Colores()
+        'esta funcion colorea el grid de los mensajes en pantalla
         Dim x As Integer
         For x = 0 To DGV_OC.Rows.Count - 1
             Dim sel = DGV_OC.Rows(x).Cells("positivo").Value()
