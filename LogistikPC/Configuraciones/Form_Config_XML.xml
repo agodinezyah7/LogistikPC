@@ -1,0 +1,36 @@
+<Logistik>
+  <Form_Configuracion>
+    <cantidad>true</cantidad>
+    <no_parte>false</no_parte>
+    <serie>false</serie>
+    <lote>false</lote>
+    <caducidad>false</caducidad>
+    <um>false</um>
+    <pedimento>false</pedimento>
+    <aduana>false</aduana>
+    <fecha_pedimento>false</fecha_pedimento>
+    <batch>false</batch>
+    <ip_servidor>192.168.1.123</ip_servidor>
+    <validar>true</validar>
+    <totalizar>false</totalizar>
+    <orden_trabajo>true</orden_trabajo>
+    <granel>false</granel>
+    <conversion>false</conversion>
+    <ubicacion>No</ubicacion>
+    <foto>false</foto>
+    <almacen>1</almacen>
+    <lenguaje>2</lenguaje>
+    <carpetaorigen>c:\borrar</carpetaorigen>
+    <carpetadestino>\\Application\LogistikMaster\</carpetadestino>
+    <puertoimpresora>COM9</puertoimpresora>
+    <ipimpresora>192.168.1.101</ipimpresora>
+    <basededatos>S</basededatos>
+    <enviarSAE>1</enviarSAE>
+    <auttraspaso>false</auttraspaso>
+    <versionsae>7</versionsae>
+    <empresa>SAE70EMPRE02</empresa>
+    <diasactualizar>200</diasactualizar>
+    <especificardoc>false</especificardoc>
+    <codigoalterno>true</codigoalterno>
+  </Form_Configuracion>
+</Logistik>
